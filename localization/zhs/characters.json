@@ -1,0 +1,15 @@
+{
+  "DMFDWITCHMOD-DMFD_WITCH.title": "魔女",
+  "DMFDWITCHMOD-DMFD_WITCH.description": "来自《Dragon Marked for Death》的龙血魔女。",
+  "DMFDWITCHMOD-DMFD_WITCH.titleObject": "魔女",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounSubject": "她",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounObject": "她",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounPossessive": "她的",
+  "DMFDWITCHMOD-DMFD_WITCH.possessiveAdjective": "她的",
+  "DMFDWITCHMOD-DMFD_WITCH.cardsModifierTitle": "魔女牌",
+  "DMFDWITCHMOD-DMFD_WITCH.cardsModifierDescription": "魔女牌会出现在卡牌奖励中。",
+  "DMFDWITCHMOD-DMFD_WITCH.bestiaryQuote": "与古龙缔结契约的龙血魔女。",
+  "DMFDWITCHMOD-DMFD_WITCH.eventDeathPrevention": "还不能倒下……",
+  "DMFDWITCHMOD-DMFD_WITCH.banter.alive.endTurnPing": "准备好了吗……",
+  "DMFDWITCHMOD-DMFD_WITCH.banter.dead.endTurnPing": "……"
+}

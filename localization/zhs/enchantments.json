@@ -1,0 +1,8 @@
+{
+  "EMPOWERED_SPELL_ENCHANTMENT.title": "法术强化",
+  "EMPOWERED_SPELL_ENCHANTMENT.description": "将牌的数值乘以 {Multiplier} 倍。",
+  "EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "强化 {Empower}。",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.title": "强化法术",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.description": "生成时将牌的数值乘以 {Multiplier} 倍。",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "强化 {Empower}。"
+}

@@ -1,0 +1,8 @@
+{
+  "EMPOWERED_SPELL_ENCHANTMENT.title": "Empowered Spell",
+  "EMPOWERED_SPELL_ENCHANTMENT.description": "Multiplies this card's values by {Multiplier}x.",
+  "EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "Empowered {Empower}.",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.title": "Empowered Spell",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.description": "Multiplies this card's values by {Multiplier}x when created.",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "Empowered {Empower}."
+}

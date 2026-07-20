@@ -1,0 +1,15 @@
+{
+  "DMFDWITCHMOD-DMFD_WITCH.title": "Witch",
+  "DMFDWITCHMOD-DMFD_WITCH.description": "The Dragonblood Witch from Dragon Marked for Death.",
+  "DMFDWITCHMOD-DMFD_WITCH.titleObject": "the Witch",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounSubject": "she",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounObject": "her",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounPossessive": "hers",
+  "DMFDWITCHMOD-DMFD_WITCH.possessiveAdjective": "her",
+  "DMFDWITCHMOD-DMFD_WITCH.cardsModifierTitle": "Witch Cards",
+  "DMFDWITCHMOD-DMFD_WITCH.cardsModifierDescription": "Witch cards will now appear in rewards and shops.",
+  "DMFDWITCHMOD-DMFD_WITCH.bestiaryQuote": "A Dragonblood Witch bound by contracts with ancient dragons.",
+  "DMFDWITCHMOD-DMFD_WITCH.eventDeathPrevention": "I can't fall here yet...",
+  "DMFDWITCHMOD-DMFD_WITCH.banter.alive.endTurnPing": "Ready yet...?",
+  "DMFDWITCHMOD-DMFD_WITCH.banter.dead.endTurnPing": "..."
+}
