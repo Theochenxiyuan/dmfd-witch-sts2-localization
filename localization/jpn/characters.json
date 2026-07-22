@@ -6,10 +6,10 @@
   "DMFDWITCHMOD-DMFD_WITCH.cardsModifierTitle": "魔女のカード",
   "DMFDWITCHMOD-DMFD_WITCH.description": "ドラゴンマークトフォーデスから来た龍血の一族の少女、魔女",
   "DMFDWITCHMOD-DMFD_WITCH.eventDeathPrevention": "マジで．．．？",
-  "DMFDWITCHMOD-DMFD_WITCH.possessiveAdjective": "彼女",
-  "DMFDWITCHMOD-DMFD_WITCH.pronounObject": "少女",
+  "DMFDWITCHMOD-DMFD_WITCH.possessiveAdjective": "彼女の",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounObject": "彼女",
   "DMFDWITCHMOD-DMFD_WITCH.pronounPossessive": "彼女の",
-  "DMFDWITCHMOD-DMFD_WITCH.pronounSubject": "幼女",
+  "DMFDWITCHMOD-DMFD_WITCH.pronounSubject": "彼女",
   "DMFDWITCHMOD-DMFD_WITCH.title": "魔女",
   "DMFDWITCHMOD-DMFD_WITCH.titleObject": "龍血の一族の少女"
 }

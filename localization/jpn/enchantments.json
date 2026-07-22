@@ -1,8 +1,8 @@
 {
-  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.description": "パワーアップされたカードが生成された際、対象の値を{Multiplier}倍にする。",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.description": "生成時、このカードの数値を{Multiplier}倍にする。",
   "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "パワーアップ {Empower}",
-  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.title": "パワーアップ呪文",
-  "EMPOWERED_SPELL_ENCHANTMENT.description": "このカードの対象の値値を{Multiplier}倍にする。",
+  "DMFDWITCHMOD-EMPOWERED_SPELL_ENCHANTMENT.title": "パワーアップ魔法",
+  "EMPOWERED_SPELL_ENCHANTMENT.description": "このカードの数値を{Multiplier}倍にする。",
   "EMPOWERED_SPELL_ENCHANTMENT.extraCardText": "パワーアップ {Empower}。",
-  "EMPOWERED_SPELL_ENCHANTMENT.title": "パワーアップ呪文"
+  "EMPOWERED_SPELL_ENCHANTMENT.title": "パワーアップ魔法"
 }
