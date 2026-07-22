@@ -4,6 +4,7 @@
 
 ## Editing rules
 
+- Follow [GLOSSARY.md](GLOSSARY.md) for recurring gameplay terminology. Exact card, relic, power, and event titles remain defined by the locale JSON files.
 - Save JSON files as UTF-8.
 - Do not rename or remove JSON keys.
 - Every locale must contain the same `.json` files and keys as `localization/zhs`.

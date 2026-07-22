@@ -16,9 +16,10 @@ Community-maintained localization files for the **DMFD Witch** mod for *Slay the
 
 1. Fork this repository and create a branch.
 2. Edit an existing locale, or copy `localization/eng` to a new directory using the game's locale ID.
-3. Keep every JSON key and SmartFormat placeholder unchanged. Text inside formatter choices may be translated.
-4. Run `python scripts/validate_localization.py`.
-5. Open a pull request.
+3. Follow the recurring gameplay terminology in [GLOSSARY.md](GLOSSARY.md).
+4. Keep every JSON key and SmartFormat placeholder unchanged. Text inside formatter choices may be translated.
+5. Run `python scripts/validate_localization.py`.
+6. Open a pull request.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for details. Accepted translations are pinned by the main mod repository and included in a later mod release; merging here does not silently alter an installed build.
 
