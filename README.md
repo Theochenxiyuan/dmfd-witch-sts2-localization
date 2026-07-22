@@ -10,6 +10,7 @@ Community-maintained localization files for the **DMFD Witch** mod for *Slay the
 | --- | --- | --- |
 | `localization/zhs` | 简体中文 | Source language |
 | `localization/eng` | English | Maintained |
+| `localization/jpn` | 日本語 | Community translation |
 
 ## Contributing
 

@@ -21,7 +21,7 @@
   "DMFDWITCHMOD-REVITALIZING_ORB.description": "强化印记持有上限降低 {EmpowerMaxReduction}。获得时，将牌组中的所有治疗咏唱变化为再生咏唱，并保留升级和附魔。",
   "DMFDWITCHMOD-REVITALIZING_ORB.flavor": "宝珠中流转着生生不息的魔力。",
   "DMFDWITCHMOD-WEIRD_LANTERN.title": "怪异的灯笼",
-  "DMFDWITCHMOD-WEIRD_LANTERN.description": "每回合第一次[gold]释放[/gold]时，获得 {Energy:energyIcons:}。强化印记持有上限降低 {EmpowerMaxReduction}。",
+  "DMFDWITCHMOD-WEIRD_LANTERN.description": "每回合第一次[gold]释放[/gold]时，可以选择消耗手中的一张牌。若如此做，获得 {Energy:energyIcons:}。强化印记持有上限降低 {EmpowerMaxReduction}。",
   "DMFDWITCHMOD-WEIRD_LANTERN.flavor": "不知为何，看到它，脑中就浮现问号。",
   "DMFDWITCHMOD-CURSED_DOLL.title": "被诅咒的人偶",
   "DMFDWITCHMOD-CURSED_DOLL.description": "对自己施加减益时，使其层数翻倍。每当你获得减益时，获得 {IntelligencePower} 点[gold]智力[/gold]。",

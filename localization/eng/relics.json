@@ -21,7 +21,7 @@
   "DMFDWITCHMOD-REVITALIZING_ORB.description": "Reduce your Empower Sigil maximum by {EmpowerMaxReduction}. When obtained, transform all Heal Incantations in your deck into Regen Incantations, preserving upgrades and enchantments.",
   "DMFDWITCHMOD-REVITALIZING_ORB.flavor": "Endless restorative magic circulates within the orb.",
   "DMFDWITCHMOD-WEIRD_LANTERN.title": "Weird Lantern",
-  "DMFDWITCHMOD-WEIRD_LANTERN.description": "The first time you [gold]release[/gold] each turn, gain {Energy:energyIcons:}. Reduce your Empower Sigil maximum by {EmpowerMaxReduction}.",
+  "DMFDWITCHMOD-WEIRD_LANTERN.description": "The first time you [gold]release[/gold] each turn, you may [gold]Exhaust[/gold] a card from your hand. If you do, gain {Energy:energyIcons:}. Reduce your Empower Sigil maximum by {EmpowerMaxReduction}.",
   "DMFDWITCHMOD-WEIRD_LANTERN.flavor": "For some reason, the sight of it makes a question mark pop into your mind.",
   "DMFDWITCHMOD-CURSED_DOLL.title": "Cursed Doll",
   "DMFDWITCHMOD-CURSED_DOLL.description": "When you apply a debuff to yourself, double its amount. Whenever you gain a debuff, gain {IntelligencePower} [gold]Intelligence[/gold].",
