@@ -1,8 +1,8 @@
 {
   "DMFDWITCHMOD-FAMILIAR_ATTACK.title": "Familiar Attack",
-  "DMFDWITCHMOD-FAMILIAR_ATTACK.description": "Counts as a Strike. Deal {Damage:diff:} damage.",
+  "DMFDWITCHMOD-FAMILIAR_ATTACK.description": "Deal {Damage:diff:} damage. Counts as a Strike.",
   "DMFDWITCHMOD-FAMILIAR_WARD.title": "Familiar Ward",
-  "DMFDWITCHMOD-FAMILIAR_WARD.description": "Counts as a Defend. Gain {Block:diff:} [gold]Block[/gold].",
+  "DMFDWITCHMOD-FAMILIAR_WARD.description": "Gain {Block:diff:} [gold]Block[/gold]. Counts as a Defend.",
   "DMFDWITCHMOD-FAMILIAR_SHIELD.title": "Familiar Shield",
   "DMFDWITCHMOD-FAMILIAR_SHIELD.description": "Gain {Block:diff:} [gold]Block[/gold]. Apply 1 [gold]Weak[/gold] to yourself.",
   "DMFDWITCHMOD-HEAL_INCANTATION.title": "Heal Incantation",
@@ -20,7 +20,7 @@
   "DMFDWITCHMOD-FAMILIAR_INTERFERENCE.title": "Familiar Interference",
   "DMFDWITCHMOD-FAMILIAR_INTERFERENCE.description": "Deal {Damage:diff:} damage. Apply 1 [gold]Vulnerable[/gold] to yourself.",
   "DMFDWITCHMOD-ARCANE_SHIELD.title": "Arcane Shield",
-  "DMFDWITCHMOD-ARCANE_SHIELD.description": "Gain {Block:diff:} [gold]Block[/gold] (scales with Intelligence). Costs 1 less for each Incantation played this turn.",
+  "DMFDWITCHMOD-ARCANE_SHIELD.description": "Gain {Block:diff:} [gold]Block[/gold] (scales with Intelligence). Costs {EnergyReduction:energyIcons:} less for each Incantation played this turn.",
   "DMFDWITCHMOD-DIVINATION.title": "Divination",
   "DMFDWITCHMOD-DIVINATION.description": "Draw 1 card. For each unique [gold]debuff[/gold] on you, draw 1 additional card.",
   "DMFDWITCHMOD-LEVITATION.title": "Levitation",
@@ -135,7 +135,7 @@
   "DMFDWITCHMOD-FAMILIAR_SACRIFICE.title": "Familiar Sacrifice",
   "DMFDWITCHMOD-FAMILIAR_SACRIFICE.description": "Deal {Damage:diff:} damage to ALL enemies. Gain {Block:diff:} [gold]Block[/gold]. Your Familiar disappears, and you cannot play Familiar cards except [gold]Familiar Re-awaken[/gold]. After playing, put [gold]Familiar Re-awaken[/gold] into a random position in your [gold]draw pile[/gold].",
   "DMFDWITCHMOD-FAMILIAR_REAWAKEN.title": "Familiar Re-awaken",
-  "DMFDWITCHMOD-FAMILIAR_REAWAKEN.description": "Lose {StrengthLoss} [gold]Strength[/gold]. Re-awaken your Familiar and remove [gold]Familiar Sacrificed[/gold]. Becomes [gold]Familiar Sacrifice[/gold] after being played.",
+  "DMFDWITCHMOD-FAMILIAR_REAWAKEN.description": "Lose {StrengthLoss} [gold]Strength[/gold]. Re-awaken your Familiar and remove [gold]Familiar Disappeared[/gold]. Becomes [gold]Familiar Sacrifice[/gold] after being played.",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP.title": "Familiar Power-up",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP.description": "At the start of each of your turns, lose {HpLoss} HP. Familiar attack cards apply Dragon Contract effects twice."
 }

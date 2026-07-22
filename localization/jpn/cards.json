@@ -1,5 +1,5 @@
 {
-  "DMFDWITCHMOD-ARCANE_SHIELD.description": "{Block:diff:}[gold]ブロック[/gold]を得る。 (INTの影響を受ける). このターンにプレイした刻印を1枚につき、コストが1減少する。",
+  "DMFDWITCHMOD-ARCANE_SHIELD.description": "{Block:diff:}[gold]ブロック[/gold]を得る（INTの影響を受ける）。このターンにプレイした呪文1枚につき、コストが{EnergyReduction:energyIcons:}減少する。",
   "DMFDWITCHMOD-ARCANE_SHIELD.title": "アルカナシールド",
   "DMFDWITCHMOD-ASTRAL_CURSE.description": "自身が持っている[gold]筋力減少[/gold]、[gold]敏捷減少[/gold]、[gold]弱体[/gold]、[gold]脱力[/gold]を、それぞれ同量ずつ敵に付与する(最大10スタック)。",
   "DMFDWITCHMOD-ASTRAL_CURSE.title": "アストラルカース",
@@ -47,7 +47,7 @@
   "DMFDWITCHMOD-FAMILIAR_MULTI_HIT.title": "使い魔多段ヒット",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP.description": "ターン開始時、HPを{HpLoss}失う。使い魔アタックカードが付与するデバフの数値が倍になる。",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP.title": "使い魔パワーアップ",
-  "DMFDWITCHMOD-FAMILIAR_REAWAKEN.description": " [gold]筋力[/gold]{StrengthLoss}を失う。使い魔カードが再び使えるようになる。[gold]使い魔生贄[/gold]を廃棄する。このカードを[gold]使い魔生贄[/gold]に変化する。",
+  "DMFDWITCHMOD-FAMILIAR_REAWAKEN.description": "[gold]筋力[/gold]を{StrengthLoss}失う。使い魔カードが再び使えるようになる。[gold]使い魔消失[/gold]を廃棄する。このカードは[gold]使い魔生贄[/gold]に変化する。",
   "DMFDWITCHMOD-FAMILIAR_REAWAKEN.title": "使い魔再覚醒",
   "DMFDWITCHMOD-FAMILIAR_SACRIFICE.description": "すべての敵に{Damage:diff:}ダメージを与える。 {Block:diff:}[gold]ブロック[/gold]を得る。以後使い魔は消え、[gold]使い魔再覚醒[/gold]以外の使い魔カードを使えない。[gold]使い魔再覚醒[/gold]を1枚山札へランダムに加える。",
   "DMFDWITCHMOD-FAMILIAR_SACRIFICE.title": "使い魔生贄",

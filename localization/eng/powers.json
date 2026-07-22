@@ -77,6 +77,6 @@
   "DMFDWITCHMOD-FROSTBITE_POWER.description": "Lose 2 [gold]Strength[/gold] and 2 [gold]Dexterity[/gold].",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP_POWER.title": "Familiar Power-up",
   "DMFDWITCHMOD-FAMILIAR_POWER_UP_POWER.description": "At the start of each of your turns, lose HP. Familiar attack cards apply Dragon Contract effects twice.",
-  "DMFDWITCHMOD-FAMILIAR_SACRIFICED_POWER.title": "Familiar Sacrificed",
+  "DMFDWITCHMOD-FAMILIAR_SACRIFICED_POWER.title": "Familiar Disappeared",
   "DMFDWITCHMOD-FAMILIAR_SACRIFICED_POWER.description": "You cannot play Familiar cards, except [gold]Familiar Re-awaken[/gold]."
 }
